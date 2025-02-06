@@ -194,7 +194,7 @@ tags:
 |[ ](#){: .rep .tooltip .badge }|186 |HUNGRY_SOUL {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|187 |EXPLOSION_WAVE {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|188 |DIVINE_INTERVENTION {: .copyable } |  |
-|[ ](#){: .rep .tooltip .badge }|189 |PURGATORY {: .copyable } |  |
+|[ ](#){: .rep .tooltip .badge }|189 |PURGATORY {: .copyable } | Subtype affects behavior:<br>0 - Spawn Purgatory Rift<br>1 - Spawn Purgatory Soul |
 |[ ](#){: .rep .tooltip .badge }|190 |MOTHER_TRACER {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|191 |PICKUP_GHOST {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|192 |FISSURE_SPAWNER {: .copyable } |  |
