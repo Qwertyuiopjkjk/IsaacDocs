@@ -7,7 +7,7 @@ This file is used to define the properties of Wisp familiars, spawned by Book of
 
 **Resource-Folder**{: .xmlInfo }: Using this file in a resource folder of a mod is not tested yet.
 
-**Content-Folder**{: .xmlInfo }: Using this file in a content folder of a mod is not tested yet.
+**Content-Folder**{: .xmlInfo .green}: Using this file in a content folder of a mod adds the wisps when combined with the corresponding item id.
 
 ### "color" nodes
 Used to define color a locust can have.
